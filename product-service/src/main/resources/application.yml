@@ -1,0 +1,11 @@
+
+
+#
+amazonProperties:
+  endpointUrl: https://s3.ap-south-1.amazonaws.com
+#  accessKey:  AKIAUUD57ECHDDMP3CAQ
+  accessKey: AKIAUUD57ECHD5QK6V4E
+#  secretKey:  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
+  secretKey: K6NIdE8RguWaYV7TRIzyPnjHEqab8sva8j2sgLBk
+  bucketName: shopperzoid.product
+

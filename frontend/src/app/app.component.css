@@ -1,0 +1,12 @@
+.container py-5 {
+    background-color: coral;
+}
+
+.f1 {
+    background-color: rgb(80, 80, 5);
+}
+
+#reg,
+#log {
+    background-color: #d8860be8;
+}
